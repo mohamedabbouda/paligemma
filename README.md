@@ -1,11 +1,10 @@
-# Paligemma (minimal inference)
+# Paligemma 
 
-A small, educational PyTorch implementation of a **PaliGemma-style** multimodal model for **image + text → text** generation:
+A implementation of a **PaliGemma-style** multimodal model for **image + text → text** generation:
 - **SigLIP** vision encoder
 - **Gemma**-style text decoder with KV-cache
 - A lightweight processor for image preprocessing and prompt formatting
 
-> This repo focuses on *inference*. Training is not included.
 
 ## What’s in this repo
 
